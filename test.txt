@@ -1,0 +1,9 @@
+This a test.
+Another line
+And again
+Now let's rewind, kind of like a tape.
+Let's print three lines:
+1. This is a test.
+2. Another line
+3. And again
+
